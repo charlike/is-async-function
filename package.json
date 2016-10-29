@@ -21,7 +21,7 @@
     "commit": "git-cz"
   },
   "dependencies": {
-    "arr-includes": "^2.0.0",
+    "arr-includes": "^2.0.2",
     "common-callback-names": "^1.0.2",
     "function-arguments": "^1.0.6",
     "lazy-arrayify": "^1.0.3",
