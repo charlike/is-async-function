@@ -23,7 +23,7 @@
   "dependencies": {
     "arr-includes": "^2.0.0",
     "common-callback-names": "^1.0.2",
-    "function-arguments": "^1.0.6",
+    "function-arguments": "^1.0.8",
     "lazy-arrayify": "^1.0.3",
     "lazy-cache": "^2.0.1"
   },
